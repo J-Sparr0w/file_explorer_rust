@@ -1,1 +1,3 @@
-[<img alt="github" src="https://img.shields.io/badge/github-emilk/egui-8da0cb?logo=github" height="20">](https://github.com/J-Sparr0w/file_explorer_rust)
+# File Explorer for Windows:
+
+a light-weight file_explorer for Windows.
